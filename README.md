@@ -1,3 +1,6 @@
+![bankingapp](https://github.com/kenngigz/banking-app-client/assets/57593885/369a1112-cf53-4ea2-8db3-74bb0d9413cf)
+
+
 ## Connect to Postgresql Database
 
 Add Postgresql database connection details in `server/db/connect.js` file
@@ -9,14 +12,15 @@ Execute sql scripts from `server/scripts.sql` file
 ## To run the project execute following commands in sequence
 
     1. cd server
-    2. yarn install
-    3. yarn start
+    2. npm install
+    3. npm start
     4. cd ..
-    5. yarn install
-    6. yarn start
+    5. cd client
+    5. npm install
+    6. npm start
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Backend api: https://github.com/kenngigz/banking-app-api.
 
 ## Available Scripts
 
