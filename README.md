@@ -12,7 +12,8 @@ Execute sql scripts from `server/scripts.sql` file
 
 ## To run the project execute following commands in sequence
 
-    1. cd server
+    1. clone both client and backend (Backend api: https://github.com/kenngigz/banking-app-api.) into one folder 
+    2. cd server
     2. npm install
     3. npm start
     4. cd ..
